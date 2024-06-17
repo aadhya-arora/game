@@ -39,6 +39,8 @@ body
     border-radius: 20px;
     border: none;
     font-size: 9vmin;
+    background-color: rgb(5, 44, 137);
+    color: white;
 }
 #reset
 {
@@ -48,4 +50,9 @@ body
     color: white;
     border: none;
     border-radius: 1rem;
+}
+.msg
+{
+    font-size: 50px;
+    color:rgb(95, 30, 6);
 }
